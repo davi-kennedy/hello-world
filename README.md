@@ -1,1 +1,1 @@
-# hello-world
+# hello-world | Esse repositório se trata do primeiro exercício passado pela Cubos Academy
